@@ -7,4 +7,7 @@ require (
 	google.golang.org/protobuf v1.27.1
 )
 
-require golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
+require (
+	github.com/godror/knownpb v0.1.0 // indirect
+	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
+)

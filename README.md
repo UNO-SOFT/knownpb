@@ -1,4 +1,8 @@
 # knownpb
+
+!!!! This repo has moved to https://github.com/godror/knownpb !!!!
+
+
 Protocol Buffer (protobuf) known types [./timestamppb](timestamppb) with JSON and XML marshaling
 
 You have to replace the "github.com/golang/protobuf/ptypes/timestamp" or "google.golang.org/protobuf/types/known/timestamppb" import path
